@@ -5,7 +5,9 @@
  *      Author: panuhaya
  */
 #include <iostream>
+#include <fstream>
 #include <string>
+#include "json/json.h"
 #ifndef WEATHERREQUEST_H_
 #define WEATHERREQUEST_H_
 
